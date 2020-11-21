@@ -30,6 +30,6 @@ I have a special interest in the dataset for Bangladesh as I am a Bangladeshi by
 ### Some Highlights
 
 
-![Test Image 1](https://github.com/SumaiaParveen/Violence-Against-Women-and-Girls-VAWG-DataViz/blob/main/images/BD_cir.JPG)
-![Test Image 1](https://github.com/SumaiaParveen/Violence-Against-Women-and-Girls-VAWG-DataViz/blob/main/images/Bd_groups.JPG)
-![Test Image 1](https://github.com/SumaiaParveen/Violence-Against-Women-and-Girls-VAWG-DataViz/blob/main/images/Congo.JPG)
+![Test Image 1](https://github.com/SumaiaParveen/Violence-Against-Women-and-Girls-VAWG-DataViz/blob/main/images/output_61_1.png)
+![Test Image 1](https://github.com/SumaiaParveen/Violence-Against-Women-and-Girls-VAWG-DataViz/blob/main/images/output_63_1.png)
+![Test Image 1](https://github.com/SumaiaParveen/Violence-Against-Women-and-Girls-VAWG-DataViz/blob/main/images/output_31_1.png)
